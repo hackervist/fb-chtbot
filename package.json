@@ -1,0 +1,16 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "FullGospel fb chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Promise Mazibuko",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "botly": "^1.6.1",
+    "express": "^4.16.3"
+  }
+}
